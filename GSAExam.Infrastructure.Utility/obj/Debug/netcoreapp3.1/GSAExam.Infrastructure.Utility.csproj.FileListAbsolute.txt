@@ -1,0 +1,8 @@
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.Utility\bin\Debug\netcoreapp3.1\GSAExam.Infrastructure.Utility.deps.json
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.Utility\bin\Debug\netcoreapp3.1\GSAExam.Infrastructure.Utility.dll
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.Utility\obj\Debug\netcoreapp3.1\GSAExam.Infrastructure.Utility.csprojAssemblyReference.cache
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.Utility\obj\Debug\netcoreapp3.1\GSAExam.Infrastructure.Utility.AssemblyInfoInputs.cache
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.Utility\obj\Debug\netcoreapp3.1\GSAExam.Infrastructure.Utility.AssemblyInfo.cs
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.Utility\bin\Debug\netcoreapp3.1\GSAExam.Infrastructure.Utility.pdb
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.Utility\obj\Debug\netcoreapp3.1\GSAExam.Infrastructure.Utility.dll
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.Utility\obj\Debug\netcoreapp3.1\GSAExam.Infrastructure.Utility.pdb

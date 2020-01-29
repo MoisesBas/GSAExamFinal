@@ -1,0 +1,30 @@
+E:\GSA\GSAExam\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.Mapping.deps.json
+E:\GSA\GSAExam\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.Mapping.dll
+E:\GSA\GSAExam\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.Mapping.pdb
+E:\GSA\GSAExam\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.Domain.dll
+E:\GSA\GSAExam\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.DomainModel.dll
+E:\GSA\GSAExam\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Infrastructure.dll
+E:\GSA\GSAExam\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.DomainModel.pdb
+E:\GSA\GSAExam\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.Domain.pdb
+E:\GSA\GSAExam\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Infrastructure.pdb
+E:\GSA\GSAExam\GSAExam.Core.Mapping\obj\Release\netcoreapp3.1\GSAExam.Core.Mapping.csprojAssemblyReference.cache
+E:\GSA\GSAExam\GSAExam.Core.Mapping\obj\Release\netcoreapp3.1\GSAExam.Core.Mapping.AssemblyInfoInputs.cache
+E:\GSA\GSAExam\GSAExam.Core.Mapping\obj\Release\netcoreapp3.1\GSAExam.Core.Mapping.AssemblyInfo.cs
+E:\GSA\GSAExam\GSAExam.Core.Mapping\obj\Release\netcoreapp3.1\GSAExam.Core.Mapping.csproj.CopyComplete
+E:\GSA\GSAExam\GSAExam.Core.Mapping\obj\Release\netcoreapp3.1\GSAExam.Core.Mapping.dll
+E:\GSA\GSAExam\GSAExam.Core.Mapping\obj\Release\netcoreapp3.1\GSAExam.Core.Mapping.pdb
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.Mapping.deps.json
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.Mapping.dll
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.Mapping.pdb
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.Domain.dll
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.DomainModel.dll
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Infrastructure.dll
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.DomainModel.pdb
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Core.Domain.pdb
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\bin\Release\netcoreapp3.1\GSAExam.Infrastructure.pdb
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\obj\Release\netcoreapp3.1\GSAExam.Core.Mapping.csprojAssemblyReference.cache
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\obj\Release\netcoreapp3.1\GSAExam.Core.Mapping.AssemblyInfoInputs.cache
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\obj\Release\netcoreapp3.1\GSAExam.Core.Mapping.AssemblyInfo.cs
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\obj\Release\netcoreapp3.1\GSAExam.Core.Mapping.csproj.CopyComplete
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\obj\Release\netcoreapp3.1\GSAExam.Core.Mapping.dll
+E:\GSA\GSAExam - Copy\GSAExam.Core.Mapping\obj\Release\netcoreapp3.1\GSAExam.Core.Mapping.pdb

@@ -1,0 +1,16 @@
+E:\GSA\GSAExam\GSAExam.Infrastructure.EWS\bin\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.deps.json
+E:\GSA\GSAExam\GSAExam.Infrastructure.EWS\bin\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.dll
+E:\GSA\GSAExam\GSAExam.Infrastructure.EWS\obj\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.csprojAssemblyReference.cache
+E:\GSA\GSAExam\GSAExam.Infrastructure.EWS\obj\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.AssemblyInfoInputs.cache
+E:\GSA\GSAExam\GSAExam.Infrastructure.EWS\obj\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.AssemblyInfo.cs
+E:\GSA\GSAExam\GSAExam.Infrastructure.EWS\bin\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.pdb
+E:\GSA\GSAExam\GSAExam.Infrastructure.EWS\obj\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.dll
+E:\GSA\GSAExam\GSAExam.Infrastructure.EWS\obj\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.pdb
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.EWS\bin\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.deps.json
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.EWS\bin\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.dll
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.EWS\bin\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.pdb
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.EWS\obj\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.csprojAssemblyReference.cache
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.EWS\obj\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.AssemblyInfoInputs.cache
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.EWS\obj\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.AssemblyInfo.cs
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.EWS\obj\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.dll
+E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.EWS\obj\Debug\netstandard2.0\GSAExam.Infrastructure.EWS.pdb

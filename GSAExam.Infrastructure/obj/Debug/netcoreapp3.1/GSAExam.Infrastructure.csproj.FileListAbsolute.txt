@@ -1,0 +1,8 @@
+E:\GSA\GSAExam\GSAExam.Infrastructure\bin\Debug\netcoreapp3.1\GSAExam.Infrastructure.deps.json
+E:\GSA\GSAExam\GSAExam.Infrastructure\bin\Debug\netcoreapp3.1\GSAExam.Infrastructure.dll
+E:\GSA\GSAExam\GSAExam.Infrastructure\bin\Debug\netcoreapp3.1\GSAExam.Infrastructure.pdb
+E:\GSA\GSAExam\GSAExam.Infrastructure\obj\Debug\netcoreapp3.1\GSAExam.Infrastructure.csprojAssemblyReference.cache
+E:\GSA\GSAExam\GSAExam.Infrastructure\obj\Debug\netcoreapp3.1\GSAExam.Infrastructure.AssemblyInfoInputs.cache
+E:\GSA\GSAExam\GSAExam.Infrastructure\obj\Debug\netcoreapp3.1\GSAExam.Infrastructure.AssemblyInfo.cs
+E:\GSA\GSAExam\GSAExam.Infrastructure\obj\Debug\netcoreapp3.1\GSAExam.Infrastructure.dll
+E:\GSA\GSAExam\GSAExam.Infrastructure\obj\Debug\netcoreapp3.1\GSAExam.Infrastructure.pdb

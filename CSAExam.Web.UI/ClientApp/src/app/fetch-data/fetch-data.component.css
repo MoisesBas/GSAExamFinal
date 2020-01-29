@@ -1,0 +1,23 @@
+.example-form {
+  min-width: 150px;
+  max-width: 100%;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.mat-option {
+  height: 50px;
+  line-height: 25px;
+}
+
+[dir='rtl'] .example-option-img {
+  margin-right: 0;
+  margin-left: 2px;
+}
+
+#spanStatus{
+    margin-left: 150px;
+}

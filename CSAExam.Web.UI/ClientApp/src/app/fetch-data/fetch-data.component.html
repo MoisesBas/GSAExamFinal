@@ -1,0 +1,38 @@
+<h1 id="tableLabel">Student Master List</h1>
+
+  <p *ngIf="!students"><em>Loading...</em></p>
+
+
+<form class="example-form">
+  <mat-form-field class="example-full-width">
+    <input matInput placeholder="Select Student" aria-label="Student Name" [matAutocomplete]="auto" [formControl]="stateCtrl">
+    <mat-autocomplete #auto="matAutocomplete">
+      <div class="container">
+      <mat-option *ngFor="let i of filteredStudents | async" [value]="i.firstName " (onSelectionChange)="updateMySelection($event,i)">
+        <div class="row" [ngStyle]="{'font-size.px':24}" [style.color]="getStatus(i.status)">
+          <div class="col-sm">
+            <span>{{i.firstName}} {{i.lastName}}</span>
+          </div>
+        </div>
+        <mat-divider></mat-divider>
+      </mat-option>
+      </div>
+    </mat-autocomplete>
+  </mat-form-field>
+<div *ngIf="IsDetail">
+
+  <div><label>Student Details </label><h4>{{data?.firstName | uppercase}} {{data?.lastName | uppercase}}</h4></div>
+  <div>
+    <label>Email:</label> {{data?.email}}
+  </div>
+  <div>
+    <label>Dates:</label> {{data?.dates}}
+  </div>
+  <div>
+    <label>Status:</label> {{data?.status}}
+  </div>
+</div>
+
+
+
+</form>

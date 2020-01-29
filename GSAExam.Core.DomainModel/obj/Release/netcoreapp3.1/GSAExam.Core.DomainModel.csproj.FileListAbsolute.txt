@@ -1,0 +1,25 @@
+E:\GSA\GSAExam\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Core.DomainModel.deps.json
+E:\GSA\GSAExam\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Core.DomainModel.dll
+E:\GSA\GSAExam\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Core.DomainModel.pdb
+E:\GSA\GSAExam\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Core.Domain.dll
+E:\GSA\GSAExam\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Infrastructure.dll
+E:\GSA\GSAExam\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Infrastructure.pdb
+E:\GSA\GSAExam\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Core.Domain.pdb
+E:\GSA\GSAExam\GSAExam.Core.DomainModel\obj\Release\netcoreapp3.1\GSAExam.Core.DomainModel.AssemblyInfoInputs.cache
+E:\GSA\GSAExam\GSAExam.Core.DomainModel\obj\Release\netcoreapp3.1\GSAExam.Core.DomainModel.AssemblyInfo.cs
+E:\GSA\GSAExam\GSAExam.Core.DomainModel\obj\Release\netcoreapp3.1\GSAExam.Core.DomainModel.csproj.CopyComplete
+E:\GSA\GSAExam\GSAExam.Core.DomainModel\obj\Release\netcoreapp3.1\GSAExam.Core.DomainModel.dll
+E:\GSA\GSAExam\GSAExam.Core.DomainModel\obj\Release\netcoreapp3.1\GSAExam.Core.DomainModel.pdb
+E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Core.DomainModel.deps.json
+E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Core.DomainModel.dll
+E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Core.DomainModel.pdb
+E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Core.Domain.dll
+E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Infrastructure.dll
+E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Infrastructure.pdb
+E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\bin\Release\netcoreapp3.1\GSAExam.Core.Domain.pdb
+E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\obj\Release\netcoreapp3.1\GSAExam.Core.DomainModel.AssemblyInfoInputs.cache
+E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\obj\Release\netcoreapp3.1\GSAExam.Core.DomainModel.AssemblyInfo.cs
+E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\obj\Release\netcoreapp3.1\GSAExam.Core.DomainModel.csproj.CopyComplete
+E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\obj\Release\netcoreapp3.1\GSAExam.Core.DomainModel.dll
+E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\obj\Release\netcoreapp3.1\GSAExam.Core.DomainModel.pdb
+E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\obj\Release\netcoreapp3.1\GSAExam.Core.DomainModel.csprojAssemblyReference.cache
