@@ -13,3 +13,18 @@ E:\GSA\GSAExam - Copy\GSAExam.Core.CQRS\obj\Release\netcoreapp3.1\GSAExam.Core.C
 E:\GSA\GSAExam - Copy\GSAExam.Core.CQRS\obj\Release\netcoreapp3.1\GSAExam.Core.CQRS.csproj.CopyComplete
 E:\GSA\GSAExam - Copy\GSAExam.Core.CQRS\obj\Release\netcoreapp3.1\GSAExam.Core.CQRS.dll
 E:\GSA\GSAExam - Copy\GSAExam.Core.CQRS\obj\Release\netcoreapp3.1\GSAExam.Core.CQRS.pdb
+E:\GSAExamIssue\GSAExam.Core.CQRS\bin\Release\netcoreapp3.1\GSAExam.Core.CQRS.deps.json
+E:\GSAExamIssue\GSAExam.Core.CQRS\bin\Release\netcoreapp3.1\GSAExam.Core.CQRS.dll
+E:\GSAExamIssue\GSAExam.Core.CQRS\bin\Release\netcoreapp3.1\GSAExam.Core.CQRS.pdb
+E:\GSAExamIssue\GSAExam.Core.CQRS\bin\Release\netcoreapp3.1\GSAExam.Core.Common.dll
+E:\GSAExamIssue\GSAExam.Core.CQRS\bin\Release\netcoreapp3.1\GSAExam.Core.Domain.dll
+E:\GSAExamIssue\GSAExam.Core.CQRS\bin\Release\netcoreapp3.1\GSAExam.Infrastructure.dll
+E:\GSAExamIssue\GSAExam.Core.CQRS\bin\Release\netcoreapp3.1\GSAExam.Core.Common.pdb
+E:\GSAExamIssue\GSAExam.Core.CQRS\bin\Release\netcoreapp3.1\GSAExam.Core.Domain.pdb
+E:\GSAExamIssue\GSAExam.Core.CQRS\bin\Release\netcoreapp3.1\GSAExam.Infrastructure.pdb
+E:\GSAExamIssue\GSAExam.Core.CQRS\obj\Release\netcoreapp3.1\GSAExam.Core.CQRS.csprojAssemblyReference.cache
+E:\GSAExamIssue\GSAExam.Core.CQRS\obj\Release\netcoreapp3.1\GSAExam.Core.CQRS.AssemblyInfoInputs.cache
+E:\GSAExamIssue\GSAExam.Core.CQRS\obj\Release\netcoreapp3.1\GSAExam.Core.CQRS.AssemblyInfo.cs
+E:\GSAExamIssue\GSAExam.Core.CQRS\obj\Release\netcoreapp3.1\GSAExam.Core.CQRS.csproj.CopyComplete
+E:\GSAExamIssue\GSAExam.Core.CQRS\obj\Release\netcoreapp3.1\GSAExam.Core.CQRS.dll
+E:\GSAExamIssue\GSAExam.Core.CQRS\obj\Release\netcoreapp3.1\GSAExam.Core.CQRS.pdb

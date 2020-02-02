@@ -5268,11 +5268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GSAExamFinal\\GSAExam.Core.DomainModel\\GSAExam.Core.DomainModel.csproj",
+      "projectUniqueName": "E:\\GSAExamIssue\\GSAExam.Core.DomainModel\\GSAExam.Core.DomainModel.csproj",
       "projectName": "GSAExam.Core.DomainModel",
-      "projectPath": "E:\\GSAExamFinal\\GSAExam.Core.DomainModel\\GSAExam.Core.DomainModel.csproj",
+      "projectPath": "E:\\GSAExamIssue\\GSAExam.Core.DomainModel\\GSAExam.Core.DomainModel.csproj",
       "packagesPath": "C:\\Users\\Moises Bas\\.nuget\\packages\\",
-      "outputPath": "E:\\GSAExamFinal\\GSAExam.Core.DomainModel\\obj\\",
+      "outputPath": "E:\\GSAExamIssue\\GSAExam.Core.DomainModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5292,8 +5292,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\GSAExamFinal\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj": {
-              "projectPath": "E:\\GSAExamFinal\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj"
+            "E:\\GSAExamIssue\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj": {
+              "projectPath": "E:\\GSAExamIssue\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj"
             }
           }
         }

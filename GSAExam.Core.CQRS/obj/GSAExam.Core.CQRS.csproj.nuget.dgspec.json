@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GSAExamFinal\\GSAExam.Core.CQRS\\GSAExam.Core.CQRS.csproj": {}
+    "E:\\GSAExamIssue\\GSAExam.Core.CQRS\\GSAExam.Core.CQRS.csproj": {}
   },
   "projects": {
-    "E:\\GSAExamFinal\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj": {
+    "E:\\GSAExamIssue\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GSAExamFinal\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj",
+        "projectUniqueName": "E:\\GSAExamIssue\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj",
         "projectName": "GSAExam.Core.Common",
-        "projectPath": "E:\\GSAExamFinal\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj",
+        "projectPath": "E:\\GSAExamIssue\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj",
         "packagesPath": "C:\\Users\\Moises Bas\\.nuget\\packages\\",
-        "outputPath": "E:\\GSAExamFinal\\GSAExam.Core.Common\\obj\\",
+        "outputPath": "E:\\GSAExamIssue\\GSAExam.Core.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\GSAExamFinal\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj": {
-                "projectPath": "E:\\GSAExamFinal\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj"
+              "E:\\GSAExamIssue\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj": {
+                "projectPath": "E:\\GSAExamIssue\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj"
               }
             }
           }
@@ -109,14 +109,14 @@
         }
       }
     },
-    "E:\\GSAExamFinal\\GSAExam.Core.CQRS\\GSAExam.Core.CQRS.csproj": {
+    "E:\\GSAExamIssue\\GSAExam.Core.CQRS\\GSAExam.Core.CQRS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GSAExamFinal\\GSAExam.Core.CQRS\\GSAExam.Core.CQRS.csproj",
+        "projectUniqueName": "E:\\GSAExamIssue\\GSAExam.Core.CQRS\\GSAExam.Core.CQRS.csproj",
         "projectName": "GSAExam.Core.CQRS",
-        "projectPath": "E:\\GSAExamFinal\\GSAExam.Core.CQRS\\GSAExam.Core.CQRS.csproj",
+        "projectPath": "E:\\GSAExamIssue\\GSAExam.Core.CQRS\\GSAExam.Core.CQRS.csproj",
         "packagesPath": "C:\\Users\\Moises Bas\\.nuget\\packages\\",
-        "outputPath": "E:\\GSAExamFinal\\GSAExam.Core.CQRS\\obj\\",
+        "outputPath": "E:\\GSAExamIssue\\GSAExam.Core.CQRS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -136,8 +136,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\GSAExamFinal\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj": {
-                "projectPath": "E:\\GSAExamFinal\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj"
+              "E:\\GSAExamIssue\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj": {
+                "projectPath": "E:\\GSAExamIssue\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj"
               }
             }
           }
@@ -172,14 +172,14 @@
         }
       }
     },
-    "E:\\GSAExamFinal\\GSAExam.Core.Entities\\GSAExam.Core.Domain.csproj": {
+    "E:\\GSAExamIssue\\GSAExam.Core.Entities\\GSAExam.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GSAExamFinal\\GSAExam.Core.Entities\\GSAExam.Core.Domain.csproj",
+        "projectUniqueName": "E:\\GSAExamIssue\\GSAExam.Core.Entities\\GSAExam.Core.Domain.csproj",
         "projectName": "GSAExam.Core.Domain",
-        "projectPath": "E:\\GSAExamFinal\\GSAExam.Core.Entities\\GSAExam.Core.Domain.csproj",
+        "projectPath": "E:\\GSAExamIssue\\GSAExam.Core.Entities\\GSAExam.Core.Domain.csproj",
         "packagesPath": "C:\\Users\\Moises Bas\\.nuget\\packages\\",
-        "outputPath": "E:\\GSAExamFinal\\GSAExam.Core.Entities\\obj\\",
+        "outputPath": "E:\\GSAExamIssue\\GSAExam.Core.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -228,14 +228,14 @@
         }
       }
     },
-    "E:\\GSAExamFinal\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj": {
+    "E:\\GSAExamIssue\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GSAExamFinal\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj",
+        "projectUniqueName": "E:\\GSAExamIssue\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj",
         "projectName": "GSAExam.Infrastructure",
-        "projectPath": "E:\\GSAExamFinal\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj",
+        "projectPath": "E:\\GSAExamIssue\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Moises Bas\\.nuget\\packages\\",
-        "outputPath": "E:\\GSAExamFinal\\GSAExam.Infrastructure.Infrastructure\\obj\\",
+        "outputPath": "E:\\GSAExamIssue\\GSAExam.Infrastructure.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -255,8 +255,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\GSAExamFinal\\GSAExam.Core.Entities\\GSAExam.Core.Domain.csproj": {
-                "projectPath": "E:\\GSAExamFinal\\GSAExam.Core.Entities\\GSAExam.Core.Domain.csproj"
+              "E:\\GSAExamIssue\\GSAExam.Core.Entities\\GSAExam.Core.Domain.csproj": {
+                "projectPath": "E:\\GSAExamIssue\\GSAExam.Core.Entities\\GSAExam.Core.Domain.csproj"
               }
             }
           }

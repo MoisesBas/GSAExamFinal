@@ -6,3 +6,10 @@ E:\GSA\GSAExam\GSAExam.Core.Entities\obj\Debug\netcoreapp3.1\GSAExam.Core.Domain
 E:\GSA\GSAExam\GSAExam.Core.Entities\obj\Debug\netcoreapp3.1\GSAExam.Core.Domain.dll
 E:\GSA\GSAExam\GSAExam.Core.Entities\obj\Debug\netcoreapp3.1\GSAExam.Core.Domain.pdb
 E:\GSA\GSAExam\GSAExam.Core.Entities\obj\Debug\netcoreapp3.1\GSAExam.Core.Domain.csprojAssemblyReference.cache
+E:\GSAExamIssue\GSAExam.Core.Entities\bin\Debug\netcoreapp3.1\GSAExam.Core.Domain.deps.json
+E:\GSAExamIssue\GSAExam.Core.Entities\bin\Debug\netcoreapp3.1\GSAExam.Core.Domain.dll
+E:\GSAExamIssue\GSAExam.Core.Entities\bin\Debug\netcoreapp3.1\GSAExam.Core.Domain.pdb
+E:\GSAExamIssue\GSAExam.Core.Entities\obj\Debug\netcoreapp3.1\GSAExam.Core.Domain.AssemblyInfoInputs.cache
+E:\GSAExamIssue\GSAExam.Core.Entities\obj\Debug\netcoreapp3.1\GSAExam.Core.Domain.AssemblyInfo.cs
+E:\GSAExamIssue\GSAExam.Core.Entities\obj\Debug\netcoreapp3.1\GSAExam.Core.Domain.dll
+E:\GSAExamIssue\GSAExam.Core.Entities\obj\Debug\netcoreapp3.1\GSAExam.Core.Domain.pdb

@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CSAExam.Web.UI",
+    "\\CSAExam.Web.UI\\ClientApp",
+    "\\CSAExam.Web.UI\\ClientApp\\src",
+    "\\CSAExam.Web.UI\\ClientApp\\src\\app",
+    "\\CSAExam.Web.UI\\ClientApp\\src\\app\\fetch-data",
+    "\\GSAExam.Infrastructure.DropBox"
   ],
+  "SelectedNode": "\\CSAExam.Web.UI\\CSAExam.Web.UI.csproj",
   "PreviewInSolutionExplorer": false
 }

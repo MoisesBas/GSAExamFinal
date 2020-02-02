@@ -5492,11 +5492,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GSAExamFinal\\GSAExam.Core.CQRS\\GSAExam.Core.CQRS.csproj",
+      "projectUniqueName": "E:\\GSAExamIssue\\GSAExam.Core.CQRS\\GSAExam.Core.CQRS.csproj",
       "projectName": "GSAExam.Core.CQRS",
-      "projectPath": "E:\\GSAExamFinal\\GSAExam.Core.CQRS\\GSAExam.Core.CQRS.csproj",
+      "projectPath": "E:\\GSAExamIssue\\GSAExam.Core.CQRS\\GSAExam.Core.CQRS.csproj",
       "packagesPath": "C:\\Users\\Moises Bas\\.nuget\\packages\\",
-      "outputPath": "E:\\GSAExamFinal\\GSAExam.Core.CQRS\\obj\\",
+      "outputPath": "E:\\GSAExamIssue\\GSAExam.Core.CQRS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5516,8 +5516,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\GSAExamFinal\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj": {
-              "projectPath": "E:\\GSAExamFinal\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj"
+            "E:\\GSAExamIssue\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj": {
+              "projectPath": "E:\\GSAExamIssue\\GSAExam.Core.Common\\GSAExam.Core.Common.csproj"
             }
           }
         }

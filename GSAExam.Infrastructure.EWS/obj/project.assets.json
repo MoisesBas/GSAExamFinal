@@ -468,11 +468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GSAExamFinal\\GSAExam.Infrastructure.EWS\\GSAExam.Infrastructure.EWS.csproj",
+      "projectUniqueName": "E:\\GSAExamIssue\\GSAExam.Infrastructure.EWS\\GSAExam.Infrastructure.EWS.csproj",
       "projectName": "GSAExam.Infrastructure.EWS",
-      "projectPath": "E:\\GSAExamFinal\\GSAExam.Infrastructure.EWS\\GSAExam.Infrastructure.EWS.csproj",
+      "projectPath": "E:\\GSAExamIssue\\GSAExam.Infrastructure.EWS\\GSAExam.Infrastructure.EWS.csproj",
       "packagesPath": "C:\\Users\\Moises Bas\\.nuget\\packages\\",
-      "outputPath": "E:\\GSAExamFinal\\GSAExam.Infrastructure.EWS\\obj\\",
+      "outputPath": "E:\\GSAExamIssue\\GSAExam.Infrastructure.EWS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

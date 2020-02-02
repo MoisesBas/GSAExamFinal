@@ -24,3 +24,15 @@ E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\obj\Debug\netcoreapp3.1\GSAExam.C
 E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\obj\Debug\netcoreapp3.1\GSAExam.Core.DomainModel.csproj.CopyComplete
 E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\obj\Debug\netcoreapp3.1\GSAExam.Core.DomainModel.dll
 E:\GSA\GSAExam - Copy\GSAExam.Core.DomainModel\obj\Debug\netcoreapp3.1\GSAExam.Core.DomainModel.pdb
+E:\GSAExamIssue\GSAExam.Core.DomainModel\bin\Debug\netcoreapp3.1\GSAExam.Core.DomainModel.deps.json
+E:\GSAExamIssue\GSAExam.Core.DomainModel\bin\Debug\netcoreapp3.1\GSAExam.Core.DomainModel.dll
+E:\GSAExamIssue\GSAExam.Core.DomainModel\bin\Debug\netcoreapp3.1\GSAExam.Core.DomainModel.pdb
+E:\GSAExamIssue\GSAExam.Core.DomainModel\bin\Debug\netcoreapp3.1\GSAExam.Core.Domain.dll
+E:\GSAExamIssue\GSAExam.Core.DomainModel\bin\Debug\netcoreapp3.1\GSAExam.Infrastructure.dll
+E:\GSAExamIssue\GSAExam.Core.DomainModel\bin\Debug\netcoreapp3.1\GSAExam.Infrastructure.pdb
+E:\GSAExamIssue\GSAExam.Core.DomainModel\bin\Debug\netcoreapp3.1\GSAExam.Core.Domain.pdb
+E:\GSAExamIssue\GSAExam.Core.DomainModel\obj\Debug\netcoreapp3.1\GSAExam.Core.DomainModel.AssemblyInfoInputs.cache
+E:\GSAExamIssue\GSAExam.Core.DomainModel\obj\Debug\netcoreapp3.1\GSAExam.Core.DomainModel.AssemblyInfo.cs
+E:\GSAExamIssue\GSAExam.Core.DomainModel\obj\Debug\netcoreapp3.1\GSAExam.Core.DomainModel.csproj.CopyComplete
+E:\GSAExamIssue\GSAExam.Core.DomainModel\obj\Debug\netcoreapp3.1\GSAExam.Core.DomainModel.dll
+E:\GSAExamIssue\GSAExam.Core.DomainModel\obj\Debug\netcoreapp3.1\GSAExam.Core.DomainModel.pdb

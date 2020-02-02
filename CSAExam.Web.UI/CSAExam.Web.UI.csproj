@@ -33,11 +33,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\GSAExam.Infrastructure.DropBox.csproj" />
     <ProjectReference Include="..\GSAExam.Core.Common\GSAExam.Core.Common.csproj" />
     <ProjectReference Include="..\GSAExam.Core.CQRS\GSAExam.Core.CQRS.csproj" />
     <ProjectReference Include="..\GSAExam.Core.DomainModel\GSAExam.Core.DomainModel.csproj" />
     <ProjectReference Include="..\GSAExam.Core.Mapping\GSAExam.Core.Mapping.csproj" />
+    <ProjectReference Include="..\GSAExam.Infrastructure.DropBox\GSAExam.Infrastructure.DropBox.csproj" />
     <ProjectReference Include="..\GSAExam.Infrastructure.EWS\GSAExam.Infrastructure.EWS.csproj" />
     <ProjectReference Include="..\GSAExam.Infrastructure.Infrastructure\GSAExam.Infrastructure.csproj" />
   </ItemGroup>

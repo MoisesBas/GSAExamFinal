@@ -29,7 +29,7 @@
     <label>Dates:</label> {{data?.dates}}
   </div>
   <div>
-    <label>Status:</label> {{data?.status}}
+    <label >Status:</label><span [style.color]="getStatus(data?.status)">{{data?.status}}</span>
   </div>
 </div>
 

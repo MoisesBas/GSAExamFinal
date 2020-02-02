@@ -6,3 +6,11 @@ E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.EWS\obj\Release\netstandard2.0\GSAE
 E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.EWS\obj\Release\netstandard2.0\GSAExam.Infrastructure.EWS.AssemblyInfo.cs
 E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.EWS\obj\Release\netstandard2.0\GSAExam.Infrastructure.EWS.dll
 E:\GSA\GSAExam - Copy\GSAExam.Infrastructure.EWS\obj\Release\netstandard2.0\GSAExam.Infrastructure.EWS.pdb
+E:\GSAExamIssue\GSAExam.Infrastructure.EWS\bin\Release\netstandard2.0\GSAExam.Infrastructure.EWS.deps.json
+E:\GSAExamIssue\GSAExam.Infrastructure.EWS\bin\Release\netstandard2.0\GSAExam.Infrastructure.EWS.dll
+E:\GSAExamIssue\GSAExam.Infrastructure.EWS\bin\Release\netstandard2.0\GSAExam.Infrastructure.EWS.pdb
+E:\GSAExamIssue\GSAExam.Infrastructure.EWS\obj\Release\netstandard2.0\GSAExam.Infrastructure.EWS.csprojAssemblyReference.cache
+E:\GSAExamIssue\GSAExam.Infrastructure.EWS\obj\Release\netstandard2.0\GSAExam.Infrastructure.EWS.AssemblyInfoInputs.cache
+E:\GSAExamIssue\GSAExam.Infrastructure.EWS\obj\Release\netstandard2.0\GSAExam.Infrastructure.EWS.AssemblyInfo.cs
+E:\GSAExamIssue\GSAExam.Infrastructure.EWS\obj\Release\netstandard2.0\GSAExam.Infrastructure.EWS.dll
+E:\GSAExamIssue\GSAExam.Infrastructure.EWS\obj\Release\netstandard2.0\GSAExam.Infrastructure.EWS.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GSAExamFinal\\GSAExam.Infrastructure.Utility\\GSAExam.Infrastructure.Utility.csproj": {}
+    "E:\\GSAExamIssue\\GSAExam.Infrastructure.Utility\\GSAExam.Infrastructure.Utility.csproj": {}
   },
   "projects": {
-    "E:\\GSAExamFinal\\GSAExam.Infrastructure.Utility\\GSAExam.Infrastructure.Utility.csproj": {
+    "E:\\GSAExamIssue\\GSAExam.Infrastructure.Utility\\GSAExam.Infrastructure.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GSAExamFinal\\GSAExam.Infrastructure.Utility\\GSAExam.Infrastructure.Utility.csproj",
+        "projectUniqueName": "E:\\GSAExamIssue\\GSAExam.Infrastructure.Utility\\GSAExam.Infrastructure.Utility.csproj",
         "projectName": "GSAExam.Infrastructure.Utility",
-        "projectPath": "E:\\GSAExamFinal\\GSAExam.Infrastructure.Utility\\GSAExam.Infrastructure.Utility.csproj",
+        "projectPath": "E:\\GSAExamIssue\\GSAExam.Infrastructure.Utility\\GSAExam.Infrastructure.Utility.csproj",
         "packagesPath": "C:\\Users\\Moises Bas\\.nuget\\packages\\",
-        "outputPath": "E:\\GSAExamFinal\\GSAExam.Infrastructure.Utility\\obj\\",
+        "outputPath": "E:\\GSAExamIssue\\GSAExam.Infrastructure.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

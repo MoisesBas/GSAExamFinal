@@ -24,3 +24,16 @@ E:\GSA\GSAExam - Copy\GSAExam.Core.Common\obj\Release\netcoreapp3.1\GSAExam.Core
 E:\GSA\GSAExam - Copy\GSAExam.Core.Common\obj\Release\netcoreapp3.1\GSAExam.Core.Common.csproj.CopyComplete
 E:\GSA\GSAExam - Copy\GSAExam.Core.Common\obj\Release\netcoreapp3.1\GSAExam.Core.Common.dll
 E:\GSA\GSAExam - Copy\GSAExam.Core.Common\obj\Release\netcoreapp3.1\GSAExam.Core.Common.pdb
+E:\GSAExamIssue\GSAExam.Core.Common\bin\Release\netcoreapp3.1\GSAExam.Core.Common.deps.json
+E:\GSAExamIssue\GSAExam.Core.Common\bin\Release\netcoreapp3.1\GSAExam.Core.Common.dll
+E:\GSAExamIssue\GSAExam.Core.Common\bin\Release\netcoreapp3.1\GSAExam.Core.Common.pdb
+E:\GSAExamIssue\GSAExam.Core.Common\bin\Release\netcoreapp3.1\GSAExam.Core.Domain.dll
+E:\GSAExamIssue\GSAExam.Core.Common\bin\Release\netcoreapp3.1\GSAExam.Infrastructure.dll
+E:\GSAExamIssue\GSAExam.Core.Common\bin\Release\netcoreapp3.1\GSAExam.Infrastructure.pdb
+E:\GSAExamIssue\GSAExam.Core.Common\bin\Release\netcoreapp3.1\GSAExam.Core.Domain.pdb
+E:\GSAExamIssue\GSAExam.Core.Common\obj\Release\netcoreapp3.1\GSAExam.Core.Common.csprojAssemblyReference.cache
+E:\GSAExamIssue\GSAExam.Core.Common\obj\Release\netcoreapp3.1\GSAExam.Core.Common.AssemblyInfoInputs.cache
+E:\GSAExamIssue\GSAExam.Core.Common\obj\Release\netcoreapp3.1\GSAExam.Core.Common.AssemblyInfo.cs
+E:\GSAExamIssue\GSAExam.Core.Common\obj\Release\netcoreapp3.1\GSAExam.Core.Common.csproj.CopyComplete
+E:\GSAExamIssue\GSAExam.Core.Common\obj\Release\netcoreapp3.1\GSAExam.Core.Common.dll
+E:\GSAExamIssue\GSAExam.Core.Common\obj\Release\netcoreapp3.1\GSAExam.Core.Common.pdb

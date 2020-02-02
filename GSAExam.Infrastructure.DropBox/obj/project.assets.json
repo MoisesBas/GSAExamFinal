@@ -6571,11 +6571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GSAExamFinal\\GSAExam.Infrastructure.DropBox\\GSAExam.Infrastructure.DropBox.csproj",
+      "projectUniqueName": "E:\\GSAExamIssue\\GSAExam.Infrastructure.DropBox\\GSAExam.Infrastructure.DropBox.csproj",
       "projectName": "GSAExam.Infrastructure.DropBox",
-      "projectPath": "E:\\GSAExamFinal\\GSAExam.Infrastructure.DropBox\\GSAExam.Infrastructure.DropBox.csproj",
+      "projectPath": "E:\\GSAExamIssue\\GSAExam.Infrastructure.DropBox\\GSAExam.Infrastructure.DropBox.csproj",
       "packagesPath": "C:\\Users\\Moises Bas\\.nuget\\packages\\",
-      "outputPath": "E:\\GSAExamFinal\\GSAExam.Infrastructure.DropBox\\obj\\",
+      "outputPath": "E:\\GSAExamIssue\\GSAExam.Infrastructure.DropBox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6595,14 +6595,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\GSAExamFinal\\GSAExam.Core.DomainModel\\GSAExam.Core.DomainModel.csproj": {
-              "projectPath": "E:\\GSAExamFinal\\GSAExam.Core.DomainModel\\GSAExam.Core.DomainModel.csproj"
+            "E:\\GSAExamIssue\\GSAExam.Core.DomainModel\\GSAExam.Core.DomainModel.csproj": {
+              "projectPath": "E:\\GSAExamIssue\\GSAExam.Core.DomainModel\\GSAExam.Core.DomainModel.csproj"
             },
-            "E:\\GSAExamFinal\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj": {
-              "projectPath": "E:\\GSAExamFinal\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj"
+            "E:\\GSAExamIssue\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj": {
+              "projectPath": "E:\\GSAExamIssue\\GSAExam.Infrastructure.Infrastructure\\GSAExam.Infrastructure.csproj"
             },
-            "E:\\GSAExamFinal\\GSAExam.Infrastructure.Utility\\GSAExam.Infrastructure.Utility.csproj": {
-              "projectPath": "E:\\GSAExamFinal\\GSAExam.Infrastructure.Utility\\GSAExam.Infrastructure.Utility.csproj"
+            "E:\\GSAExamIssue\\GSAExam.Infrastructure.Utility\\GSAExam.Infrastructure.Utility.csproj": {
+              "projectPath": "E:\\GSAExamIssue\\GSAExam.Infrastructure.Utility\\GSAExam.Infrastructure.Utility.csproj"
             }
           }
         }
